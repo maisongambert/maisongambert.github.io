@@ -3822,7 +3822,7 @@ html[lang=en] #catering .flat_pic_separator {
    	margin-top:0;
     padding: 40px 10px 40px 10px;
     overflow: hidden;
-    background: #C9C0B1;
+    background: whitesmoke;
     width: calc(100% - 20px);
     -webkit-transform: translateY(0px); 
     transform: translateY(0px);
